@@ -14,7 +14,8 @@
 1. Убедитесь, что у вас установлен [Node.js](https://nodejs.org/) (рекомендуется версия 14 или выше).
 2. Установите [Expo CLI](https://docs.expo.dev/get-started/installation/) глобально, если у вас его еще нет:
 
-   ```bash
+
+ ```bash
    npm install -g expo-cli
 
    git clone https://github.com/MadSquirrelF/todo.git
@@ -22,6 +23,7 @@
    cd todo
 
    npm install
+
   ```
 
 ## Запуск проекта
